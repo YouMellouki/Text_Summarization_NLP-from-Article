@@ -4,8 +4,13 @@
 Steps:
 
 1- Get paragraphs from the article.
+
 2- Text Preprocessing.
+
 3- Convert each paragraph to sentences.
+
 4- Find Weighted Frequency of Occurrence.
+
 5- Calculating Sentence Scores.
+
 6- Summary of the day is done.
